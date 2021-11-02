@@ -1,4 +1,4 @@
-# mus
+# MusicAppVue
 
 ## Project setup
 ```
