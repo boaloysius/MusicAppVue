@@ -34,7 +34,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Configurations
-Please fill the firebase configuration before running the app.
+Please fill the firebase configuration in src/includes/firebase.js, before running the app.
 ```
 const firebaseConfig = {
   apiKey: "",
