@@ -1,5 +1,5 @@
 # MusicAppVue
-<a href="https://music-virid.vercel.app/">App deployed in Vercel</a>
+<a href="">App deployed in Vercel</a>
 
 ## Project setup
 ```
